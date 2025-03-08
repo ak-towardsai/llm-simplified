@@ -4,6 +4,10 @@ Welcome to **LLM Simplified**, an initiative to **break down complex concepts fr
 
 This project is inspired by the book **Building LLMs for Production** by *Louis-François Bouchard* and *Louie Peters*, as well as the amazing work done by [Towards AI](https://towardsai.net/). My goal is to **make LLMs accessible to everyone**—whether you're an AI expert or just getting started.
 
+## 👤 About the Creator
+
+Hi, I’m **AK**! I’m passionate about AI, LLMs, and making complex tech concepts simple and accessible for everyone. I have vast experience in **Solution Architecture** and am a dedicated **tech enthusiast**. I love exploring cutting-edge technologies and leveraging AI to solve real-world problems. This initiative is my way of helping the community understand and apply LLMs effectively in practical applications.
+
 ## 🎯 Why This Project?
 
 LLMs are **powerful**, but their concepts can be difficult to grasp. This repository is designed to:
