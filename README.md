@@ -2,7 +2,7 @@
 
 Welcome to **LLM Simplified**, an initiative to **break down complex concepts from Large Language Models (LLMs) into easy-to-understand explanations**.
 
-This project is inspired by the book **Building LLMs for Production** by *Louis-François Bouchard* and *Louie Peters*, as well as the amazing work done by [Towards AI](https://towardsai.net/). Our goal is to **make LLMs accessible to everyone**—whether you're an AI expert or just getting started.
+This project is inspired by the book **Building LLMs for Production** by *Louis-François Bouchard* and *Louie Peters*, as well as the amazing work done by [Towards AI](https://towardsai.net/). My goal is to **make LLMs accessible to everyone**—whether you're an AI expert or just getting started.
 
 ## 🎯 Why This Project?
 
@@ -17,7 +17,6 @@ LLMs are **powerful**, but their concepts can be difficult to grasp. This reposi
 ## 📖 How to Use This Repository?
 
 - The content is structured into **separate pages** covering different topics.
-- Each page is **colorful, interactive, and easy to navigate**.
 - The **README file** links all sections together for easy access.
 
 👉 **Start learning by exploring the topics below!**
