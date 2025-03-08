@@ -25,7 +25,7 @@ LLMs are **powerful**, but their concepts can be difficult to grasp. This reposi
 
 👉 **Start learning by exploring the topics below!**
 
-📌 [Introduction to LLMs](#)  
+📌 [Introduction to LLMs](01_introduction_to_llms.md)  
 📌 [Prompt Engineering](#)  
 📌 [Retrieval-Augmented Generation (RAG)](#)  
 📌 [Fine-Tuning](#)  
